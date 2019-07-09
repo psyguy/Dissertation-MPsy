@@ -1,0 +1,78 @@
+\documentclass[master=mai,masteroption=ecs]{kulemt}
+\setup{title={Machine Consciousness and the Global Workspace Theory},
+  author={MohammadHossein Haqiqatkhah},
+  promotor={Prof. Roger Vergauwen},
+  assessor={Ir.\,Kn. Owsmuch\and K. Nowsrest},
+  assistant={Ir.\ An~Assistent \and A.~Friend}}
+% The following \setup may be removed entirely if no filing card is wanted
+\setup{filingcard,
+  translatedtitle=,
+  udc=621.3,
+  shortabstract={Here comes a very short abstract, containing no more than 500
+    words. \LaTeX\ commands can be used here. Blank lines (or the command
+    \texttt{\string\pa r}) are not allowed!
+    \endgraf \lipsum[2]}}
+% Uncomment the next line for generating the cover page
+%\setup{coverpageonly}
+% Uncomment the next \setup to generate only the first pages (e.g., if you
+% are a Word user.
+%\setup{frontpagesonly}
+
+% Choose the main text font (e.g., Latin Modern)
+\setup{font=lm}
+\usepackage{semtrans}
+%\setmainfont[Ligatures=TeX]{Brill}
+%\usepackage{newunicodechar}
+%\newunicodechar{ī}{i\char\string"0304}
+
+% If you want to include other LaTeX packages, do it here.
+
+% Finally the hyperref package is used for pdf files.
+% This can be commented out for printed versions.
+\usepackage[pdfusetitle,colorlinks,plainpages=false]{hyperref}
+%\usepackage{doi}
+\usepackage{url}
+\usepackage{apacite}
+
+%%%%%%%
+% The lipsum package is used to generate random text.
+% You never need this in a real master's thesis text!
+\IfFileExists{lipsum.sty}%
+ {\usepackage{lipsum}\setlipsumdefault{11-13}}%
+ {\newcommand{\lipsum}[1][11-13]{\par And some text: lipsum ##1.\par}}
+%%%%%%%
+\newcommand*{\doi}[1]{\href{https://doi.org/#1}{#1}}
+\makeatletter
+\renewenvironment{APACrefDOI}{%
+  \global\let\old@doi\doi
+  \if@doi
+    \doiprefix
+  \else
+    \global\let\doi\@gobble
+  \fi
+  \ignorespaces
+  }{\global\let\doi\old@doi }
+\makeatother
+
+\usepackage[utf8]{inputenc}
+
+$if(title)$
+  \title{$title$}
+$else$
+  \title{}
+$endif$
+$if(author)$
+  \author{$for(author)$$author$$sep$ \\ $endfor$}
+$else$
+  \author{}
+$endif$
+
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$body$
+
+\end{document}
