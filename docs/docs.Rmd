@@ -14,6 +14,26 @@ site: bookdown::bookdown_site
 biblio-style: "apalike"
 link-citations: true
 # output_dir: htmls
+# 
+# thesisdown::thesis_pdf:
+#   includes:
+#     in_header: latex/preamble.tex
+#     # before_body: latex/before_body.tex
+#     # after_body: latex/after_body.tex
+#   keep_tex: yes
+#   dev: "cairo_pdf"
+#   latex_engine: xelatex
+#   citation_package: natbib
+#   template: null
+#   pandoc_args: --top-level-division=chapter
+#   toc_unnumbered: no
+#   toc_appendix: yes
+#   quote_footer: ["\\VA{", "}{}"]
+#   highlight_bw: yes
+# 
+# 
+# 
+
 output: 
   thesisdown::thesis_pdf: default
 #  thesisdown::thesis_gitbook: default
@@ -36,7 +56,7 @@ preface: |
 # Specify the location of the bibliography below
 bibliography: bib/thesis.bib
 # Download your specific csl file and refer to it in the line below.
-csl: csl/apa.csl
+csl: csl/kulemt.csl
 lot: true
 lof: true
 # If you prefer blank lines between paragraphs, un-silence lines  40-41 (this requires package tikz)
