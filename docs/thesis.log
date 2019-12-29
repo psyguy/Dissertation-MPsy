@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.8)  9 JUL 2019 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.8)  29 DEC 2019 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -251,6 +251,30 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 ))
+(c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/micro
+type.sty
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
+\MT@toks=\toks17
+\MT@count=\count92
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen103
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count93
+
+(c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/micro
+type-pdftex.def
+File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip52
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/micro
+type.cfg
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
+))
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/color.
 sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
@@ -268,11 +292,11 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/framed/framed.s
 ty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip52
-\fb@frw=\dimen103
-\fb@frh=\dimen104
-\FrameRule=\dimen105
-\FrameSep=\dimen106
+\OuterFrameSep=\skip53
+\fb@frw=\dimen104
+\fb@frh=\dimen105
+\FrameRule=\dimen106
+\FrameSep=\dimen107
 ))
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphi
 cx.sty
@@ -292,8 +316,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
-\Gin@req@height=\dimen107
-\Gin@req@width=\dimen108
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/latexsym.s
 ty
@@ -305,7 +329,7 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath
 .sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip53
+\@mathmargin=\skip54
 For additional information on amsmath, use the `?' option.
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext
@@ -315,53 +339,53 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.
 sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
-\ex@=\dimen109
+\@emptytoks=\toks18
+\ex@=\dimen110
 ))
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.
 sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen110
+\pmbraise@=\dimen111
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.
 sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count92
+\inf@bad=\count94
 LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count93
-\leftroot@=\count94
+\uproot@=\count95
+\leftroot@=\count96
 LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count95
-\DOTSCASE@=\count96
+\classnum@=\count97
+\DOTSCASE@=\count98
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
-\big@size=\dimen111
+\big@size=\dimen112
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count97
-\c@MaxMatrixCols=\count98
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
 \dotsspace@=\muskip10
-\c@parentequation=\count99
-\dspbrk@lvl=\count100
-\tag@help=\toks18
-\row@=\count101
-\column@=\count102
-\maxfields@=\count103
-\andhelp@=\toks19
-\eqnshift@=\dimen112
-\alignsep@=\dimen113
-\tagshift@=\dimen114
-\tagwidth@=\dimen115
-\totwidth@=\dimen116
-\lineht@=\dimen117
-\@envbody=\toks20
-\multlinegap=\skip54
-\multlinetaggap=\skip55
-\mathdisplay@stack=\toks21
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks19
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks20
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks21
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
@@ -380,55 +404,55 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.s
 ty
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks22
-\thm@bodyfont=\toks23
-\thm@headfont=\toks24
-\thm@notefont=\toks25
-\thm@headpunct=\toks26
-\thm@preskip=\skip56
-\thm@postskip=\skip57
-\thm@headsep=\skip58
-\dth@everypar=\toks27
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks28
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable
 .sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
-\LTleft=\skip59
-\LTright=\skip60
-\LTpre=\skip61
-\LTpost=\skip62
-\LTchunksize=\count104
-\LTcapwidth=\dimen118
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count106
+\LTcapwidth=\dimen119
 \LT@head=\box30
 \LT@firsthead=\box31
 \LT@foot=\box32
 \LT@lastfoot=\box33
-\LT@cols=\count105
-\LT@rows=\count106
-\c@LT@tables=\count107
-\c@LT@chunks=\count108
-\LT@p@ftn=\toks28
+\LT@cols=\count107
+\LT@rows=\count108
+\c@LT@tables=\count109
+\c@LT@chunks=\count110
+\LT@p@ftn=\toks29
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/bookta
 bs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen119
-\lightrulewidth=\dimen120
-\cmidrulewidth=\dimen121
-\belowrulesep=\dimen122
-\belowbottomsep=\dimen123
-\aboverulesep=\dimen124
-\abovetopsep=\dimen125
-\cmidrulesep=\dimen126
-\cmidrulekern=\dimen127
-\defaultaddspace=\dimen128
-\@cmidla=\count109
-\@cmidlb=\count110
-\@aboverulesep=\dimen129
-\@belowrulesep=\dimen130
-\@thisruleclass=\count111
-\@lastruleclass=\count112
-\@thisrulewidth=\dimen131
+\heavyrulewidth=\dimen120
+\lightrulewidth=\dimen121
+\cmidrulewidth=\dimen122
+\belowrulesep=\dimen123
+\belowbottomsep=\dimen124
+\aboverulesep=\dimen125
+\abovetopsep=\dimen126
+\cmidrulesep=\dimen127
+\cmidrulekern=\dimen128
+\defaultaddspace=\dimen129
+\@cmidla=\count111
+\@cmidlb=\count112
+\@aboverulesep=\dimen130
+\@belowrulesep=\dimen131
+\@thisruleclass=\count113
+\@lastruleclass=\count114
+\@thisrulewidth=\dimen132
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspa
 ce.sty
@@ -492,9 +516,9 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ons.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen132
-\Hy@linkcounter=\count113
-\Hy@pagecounter=\count114
+\@linkdim=\dimen133
+\Hy@linkcounter=\count115
+\Hy@pagecounter=\count116
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc
 .def
@@ -502,7 +526,7 @@ File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count115
+\Hy@SavedSpaceFactor=\count117
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/hyp
 erref.cfg
@@ -515,12 +539,12 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count116
+\c@Hy@tempcnt=\count118
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen133
-\Fld@menulength=\count117
-\Field@Width=\dimen134
-\Fld@charsize=\dimen135
+\XeTeXLinkMargin=\dimen134
+\Fld@menulength=\count119
+\Field@Width=\dimen135
+\Fld@charsize=\dimen136
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -530,17 +554,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count118
-\c@Item=\count119
-\c@Hfootnote=\count120
+\Hy@abspage=\count120
+\c@Item=\count121
+\c@Hfootnote=\count122
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdfte
 x.def
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count121
-\c@bookmark@seq@number=\count122
+\Fld@listcount=\count123
+\c@bookmark@seq@number=\count124
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/oberdiek/rerunf
 ilecheck.sty
@@ -548,7 +572,7 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip63
+\Hy@SectionHShift=\skip64
 ) (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/lmodern.st
 y
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
@@ -587,10 +611,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count123
-\float@exts=\toks29
+\c@float@type=\count125
+\float@exts=\toks30
 \float@box=\box34
-\@float@everytoks=\toks30
+\@float@everytoks=\toks31
 \@floatcapt=\box35
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/rotati
@@ -600,11 +624,11 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count124
-\rotFPtop=\skip64
-\rotFPbot=\skip65
+\c@r@tfl@t=\count126
+\rotFPtop=\skip65
+\rotFPbot=\skip66
 \rot@float@box=\box36
-\rot@mess@toks=\toks31
+\rot@mess@toks=\toks32
 )
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption
 .sty
@@ -614,16 +638,16 @@ Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 3.sty
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen136
-\captionmargin@=\dimen137
-\captionwidth=\dimen138
-\caption@tempdima=\dimen139
-\caption@indent=\dimen140
-\caption@parindent=\dimen141
-\caption@hangindent=\dimen142
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
 )
-\c@caption@flags=\count125
-\c@ContinuedFloat=\count126
+\c@caption@flags=\count127
+\c@ContinuedFloat=\count128
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
@@ -663,6 +687,22 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 186.
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+LaTeX Info: Redefining \microtypecontext on input line 186.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-cm
+r.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/oberdiek/epstop
 df-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -694,7 +734,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 itlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count127
+\c@section@level=\count129
 )
 LaTeX Info: Redefining \ref on input line 186.
 LaTeX Info: Redefining \pageref on input line 186.
@@ -741,11 +781,19 @@ LaTeX Font Info:    Try loading font information for U+msa on input line 190.
 d
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+(c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-ms
+a.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
 LaTeX Font Info:    Try loading font information for U+msb on input line 190.
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.f
 d
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-ms
+b.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 Non-PDF special ignored!
 <special> !% Reed College LaTeX Thesis Class 2001/12/04 SN
@@ -767,17 +815,17 @@ ftex.map}] [2
 ] [3] [4
 
 
-] (./thesis.toc)
+] (./thesis.toc [5])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
-[5] [6
-
-] (./thesis.lot)
+[6] (./thesis.lot)
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
-[7] [8
+[7
+
+] [8
 
 ] (./thesis.lof)
 \tf@lof=\write7
@@ -795,24 +843,29 @@ ftex.map}] [2
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.240 ...ter{R Markdown Basics}\label{rmd-basics}}
-                                                   [1
-
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.240 ...ter{R Markdown Basics}\label{rmd-basics}}
-                                                   [2
+l.244 \textbf{For additional help with bookdown}
+                                                 [1
 
 ]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.248 ...ter{R Markdown Basics}\label{rmd-basics}}
+                                                   [2]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 242.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 250.
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 253.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 261.
 
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -820,57 +873,47 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.291 H
+l.299 H
        ere is the first sentence. Here is another sentence. Here is the last...
-[3]
+[3
+
+]
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 306.
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 14.49998pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 314.
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.342 \includegraphics
+l.350 \includegraphics
                       {thesis_files/figure-latex/pressure-1.pdf} [4]
-<thesis_files/figure-latex/pressure-1.pdf, id=271, 469.755pt x 325.215pt>
+<thesis_files/figure-latex/pressure-1.pdf, id=297, 469.755pt x 325.215pt>
 File: thesis_files/figure-latex/pressure-1.pdf Graphic file (type pdf)
 <use thesis_files/figure-latex/pressure-1.pdf>
 Package pdftex.def Info: thesis_files/figure-latex/pressure-1.pdf  used on inpu
-t line 342.
+t line 350.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 
-Overfull \hbox (53.75868pt too wide) in paragraph at lines 342--343
+Overfull \hbox (53.75868pt too wide) in paragraph at lines 350--351
 [][] 
  []
 
 [5 <./thesis_files/figure-latex/pressure-1.pdf>]
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 395
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 403
 .
 (c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [6] [7
 
 ]
-<thesis_files/figure-latex/march3plot-1.pdf, id=297, 433.62pt x 216.81pt>
+<thesis_files/figure-latex/march3plot-1.pdf, id=324, 433.62pt x 216.81pt>
 File: thesis_files/figure-latex/march3plot-1.pdf Graphic file (type pdf)
 <use thesis_files/figure-latex/march3plot-1.pdf>
 Package pdftex.def Info: thesis_files/figure-latex/march3plot-1.pdf  used on in
-put line 474.
+put line 482.
 (pdftex.def)             Requested size: 433.61894pt x 216.80946pt.
 
-Overfull \hbox (17.62376pt too wide) in paragraph at lines 474--475
+Overfull \hbox (17.62376pt too wide) in paragraph at lines 482--483
 [][] 
- []
-
-
-Underfull \hbox (badness 1062) in paragraph at lines 482--484
-[]\T1/lmr/m/it/12 R Mark-down \T1/lmr/m/n/12 Ref-er-ence Guide - []$\T1/lmtt/m/
-n/12 https : / / www . rstudio . com / wp -[] content /
  []
 
 [8 <./thesis_files/figure-latex/march3plot-1.pdf>]
@@ -878,115 +921,108 @@ Chapter 2.
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 498.
+(amsmath)                 on input line 506.
 
 [9
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 591--592
-\T1/lmr/m/n/12 ([]$\T1/lmtt/m/n/12 http : / / mirror . utexas . edu / ctan / in
-fo / symbols / comprehensive / symbols -[]
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
+\T1/lmr/m/n/12 (+20) ([]$\T1/lmtt/m/n/12 http : / / mirror . utexas . edu / cta
+n / info / symbols / comprehensive / symbols -[]
  []
 
-[10]
-Underfull \hbox (badness 7030) in paragraph at lines 596--597
-\T1/lmr/m/n/12 You will prob-a-bly find the re-sources at []$\T1/lmtt/m/n/12 ht
-tp : / / www . lecb . ncifcrf . gov /
- []
-
-
-Underfull \hbox (badness 2922) in paragraph at lines 596--597
-\T1/lmtt/m/n/12 ~toms / latex . html$[] \T1/lmr/m/n/12 help-ful, par-tic-u-larl
-y the links to bsts for var-i-ous jour-
- []
-
-
-Underfull \hbox (badness 1742) in paragraph at lines 596--597
-\T1/lmr/m/n/12 nals. You may also be in-ter-ested in TeXShade for nu-cleotide t
-ype-set-ting
- []
-
-
-Underfull \hbox (badness 4001) in paragraph at lines 596--597
-\T1/lmr/m/n/12 ([]$\T1/lmtt/m/n/12 http : / / homepages . uni -[] tuebingen . d
-e / beitz / txe . html$[]\T1/lmr/m/n/12 ). Be sure to read
- []
-
-[11] [12
+[10] [11] [12
 
 ]
 Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 [13]
-<figure/reed.jpg, id=366, 250.9375pt x 251.94125pt>
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[15] [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[17] [18]
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+[19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[21] [22]
+Chapter 4.
+[23
+
+]
+<figure/reed.jpg, id=442, 250.9375pt x 251.94125pt>
 File: figure/reed.jpg Graphic file (type jpg)
 <use figure/reed.jpg>
-Package pdftex.def Info: figure/reed.jpg  used on input line 681.
-(pdftex.def)             Requested size: 250.93687pt x 251.94063pt.
-[14
+Package pdftex.def Info: figure/reed.jpg  used on input line 799.
+(pdftex.def)             Requested size: 250.77698pt x 251.79454pt.
+[24
 
  <./figure/reed.jpg>]
-<thesis_files/figure-latex/delaysboxplot-1.pdf, id=374, 433.62pt x 325.215pt>
+<thesis_files/figure-latex/delaysboxplot-1.pdf, id=450, 433.62pt x 325.215pt>
 File: thesis_files/figure-latex/delaysboxplot-1.pdf Graphic file (type pdf)
 <use thesis_files/figure-latex/delaysboxplot-1.pdf>
 Package pdftex.def Info: thesis_files/figure-latex/delaysboxplot-1.pdf  used on
- input line 699.
+ input line 816.
 (pdftex.def)             Requested size: 433.61894pt x 325.2142pt.
-[15
+[25
 
  <./thesis_files/figure-latex/delaysboxplot-1.pdf>]
-<figure/subdivision.pdf, id=387, 220.825pt x 89.33376pt>
+<figure/subdivision.pdf, id=464, 220.825pt x 89.33376pt>
 File: figure/subdivision.pdf Graphic file (type pdf)
 <use figure/subdivision.pdf>
-Package pdftex.def Info: figure/subdivision.pdf  used on input line 710.
+Package pdftex.def Info: figure/subdivision.pdf  used on input line 827.
 (pdftex.def)             Requested size: 165.61833pt x 67.00014pt.
 File: figure/subdivision.pdf Graphic file (type pdf)
 <use figure/subdivision.pdf>
-Package pdftex.def Info: figure/subdivision.pdf  used on input line 718.
+Package pdftex.def Info: figure/subdivision.pdf  used on input line 835.
 (pdftex.def)             Requested size: 220.82445pt x 89.33353pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 725.
+(Font)              <10> on input line 842.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 725.
+(Font)              <7> on input line 842.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 725.
-[16
+(Font)              <5> on input line 842.
+[26
 
  <./figure/subdivision.pdf>]
 Underfull \vbox (badness 6220) has occurred while \output is active []
 
-[17] [18] [19
+[27] [28] [29
 
-] [20
-
-]
-Appendix A.
-[21] [22]
-Appendix B.
-[23
-
-] [24
+] [30
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 851.
-[25
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 922.
+[31
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 851.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 922.
 (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 851.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 851.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 922.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 922.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 57FBF3D248E386DA3222569288E2E5B7;1609.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 851.
+(rerunfilecheck)             Checksum: C5DAD2312336A619F94DE901CFA2E5FE;2101.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 922.
  ) 
 Here is how much of TeX's memory you used:
- 8986 strings out of 494553
- 137320 string characters out of 6175771
- 220471 words of memory out of 5000000
- 12328 multiletter control sequences out of 15000+600000
- 75823 words of font info for 72 fonts, out of 8000000 for 9000
+ 10689 strings out of 494553
+ 168810 string characters out of 6175771
+ 283374 words of memory out of 5000000
+ 13859 multiletter control sequences out of 15000+600000
+ 82201 words of font info for 136 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,12n,49p,972b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,49p,1293b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-e
 c.enc}{c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/
 lm-mathsy.enc}{c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/d
@@ -1014,10 +1050,10 @@ rs/r0607671/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
 ><c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lm
 tti10.pfb><c:/Users/r0607671/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/pub
 lic/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (43 pages, 440161 bytes).
+Output written on thesis.pdf (49 pages, 474391 bytes).
 PDF statistics:
- 607 PDF objects out of 1000 (max. 8388607)
- 525 compressed objects within 6 object streams
- 121 named destinations out of 1000 (max. 500000)
- 234 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 667 PDF objects out of 1000 (max. 8388607)
+ 579 compressed objects within 6 object streams
+ 138 named destinations out of 1000 (max. 500000)
+ 14610 words of extra memory for PDF output out of 17280 (max. 10000000)
 

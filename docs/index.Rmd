@@ -1,0 +1,69 @@
+---
+author: 'Bavo Kempen'
+date: '2018-2019'
+institution: 'KU LEUVEN'
+division: 'FACULTY OF PSYCHOLOGY AND EDUCATIONAL SCIENCES'
+advisor: 'Supervisor: Diana M. Torta' # If you have more two advisors, un-silence line 7
+altadvisor: 'Co-supervisor: Andreas von Leupoldt'
+department: 'Health Psychology'
+degree: 'Master in Psychology: Theory and Research'
+title: 'The Effect of Low Frequency Stimulation on the Error-Related Negativity and Error Positivity'
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+output: 
+  thesisdown::thesis_pdf: default
+  latex_engine: xelatex
+mainfont: Times New Roman
+sansfont: Times New Roman
+#  thesisdown::thesis_gitbook: default
+#  thesisdown::thesis_word: default
+#  thesisdown::thesis_epub: default
+# If you are creating a PDF you'll need to write your preliminary content (e.g., abstract, acknowledgements) here or
+# use code similar to line 22-23 for the .RMD files. If you are NOT producing a PDF, you can delete or silence lines 21-32 in this YAML header.
+fontsize: 12pt
+linestretch: 1.5
+abstract: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
+
+#prologue: |
+#  `r if(knitr:::is_latex_output()) paste(readLines("00-prologue.Rmd"), collapse = '\n  ')`
+  
+#approachandinput: |
+#  `r if(knitr:::is_latex_output()) paste(readLines("00-approach-and-input.Rmd"), collapse = '\n  ')`
+# If you'd rather include the preliminary content in files instead of inline
+# like below, use a command like that for the abstract above.  Note that a tab is 
+# needed on the line after the `|`.
+#acknowledgements: |
+#dedication: |
+ # You can have a dedication here if you wish. 
+#preface: |
+ # This is an example of a thesis setup to use the reed thesis document class
+  #(for LaTeX) and the R bookdown package, in general.
+# Specify the location of the bibliography below
+toc-depth: 3
+bibliography: biblio.bib
+# Download your specific csl file and refer to it in the line below.
+csl: csl/apa.csl
+lot: true
+lof: true
+# If you prefer blank lines between paragraphs, un-silence lines  40-41 (this requires package tikz)
+header-includes:
+  \usepackage{threeparttable}
+  \linespread{1.5}
+  \usepackage{geometry}
+  \geometry{a4paper,vmargin=2cm, , left = 2.5cm,right=2.5cm,textwidth = 16cm, textheight = 24.7cm, headheight = 14.5pt}
+  \usepackage{pdfpages}
+  #\usepackage{tikz}
+---
+
+
+```{r include_packages, include = FALSE}
+# This chunk ensures that the thesisdown package is
+# installed and loaded. This thesisdown package includes
+# the template files for the thesis.
+if(!require(devtools))
+  install.packages("devtools", repos = "http://cran.rstudio.com")
+if(!require(thesisdown))
+  devtools::install_github("ismayc/thesisdown")
+library(thesisdown)
+```
